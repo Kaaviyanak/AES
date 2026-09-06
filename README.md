@@ -1,3 +1,5 @@
+# KAAVIYAN K
+# REG NO : 212224240066
 ## EX-8-ADVANCED-ENCRYPTION-STANDARD ALGORITHM
 ## Aim:
 To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
@@ -9,7 +11,7 @@ It has a fixed block size of 128 bits, and a key size of 128, 192, or 256 bits.
 AES operates on a 4 × 4 column-major order array of bytes, termed the state
 
 ## PROGRAM:
-~~~
+```
 
 #include <stdio.h> 
 #include <string.h> 
@@ -53,10 +55,10 @@ simpleAESDecrypt(ciphertext, key, decryptedText);
 printf("Decrypted Message: %s\n", decryptedText); 
 return 0; 
 }
-~~~
+```
 ## OUTPUT:
 
-<img width="1630" height="894" alt="image" src="https://github.com/user-attachments/assets/01cd76c7-2e88-4436-9647-3805daf1f992" />
+<img width="1903" height="1016" alt="image" src="https://github.com/user-attachments/assets/6ba256ee-3e5d-42c7-a7af-12686fc318ea" />
 
 
 ## RESULT:
